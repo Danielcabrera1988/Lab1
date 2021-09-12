@@ -2,7 +2,8 @@
 #include <stdbool.h>
 int suma_matriz (int a[3][3], int b[3][3], int ms[3][3], int c, int d);
 int resta_matriz (int z[3][3], int x[3][3], int mr[3][3], int y, int v);
-int multi_matriz (int o[3][3], int p[3][3], int mm[3][3], int q, int r);
+//int multi_matriz (int o[3][3], int p[3][3], int mm[3][3], int q, int r); a corregir
+
 void muestraMat(int mat[3][3]);
 
 int main(int argc, char *argv[]) {
